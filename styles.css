@@ -73,4 +73,6 @@ ul {
   background-color: purple;
 }
 
-body { font-weight: bold;}
+body { font-weight: bold;
+margin: 0;
+  padding: 0;}
